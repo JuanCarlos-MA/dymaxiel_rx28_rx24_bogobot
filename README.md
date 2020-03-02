@@ -1,5 +1,5 @@
-# std_pose_motores
-Creación del "Standard Pose" del Bogobot v2
+# dymaxiel_rx28_rx24_bogobot
+Creación de los programas "Standard Pose", "Ping" y "Motores" del Bogobot v2
 
 ## Descripción general
 Programas para la ejecución de una posición en 'T'(**std_pose**), **ping** y comprobación de la energización(**motores**) de todos los motores del robot Bogobot v2 con los servomotores Dynamixel RX-28 y RX-24F el cuál tiene como función colocar los servomotores en una posición tipo HOME y usarlo en programas de secuencias y/o caminado.
