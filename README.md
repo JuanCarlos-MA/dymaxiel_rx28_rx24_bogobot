@@ -29,20 +29,21 @@ Ya terminado el proceso, deberá de abrir dos Terminales nuevas y ejecutar los s
 roscore
 ```
 * Terminal 2
-- En caso de utilizar el *pingMotors.cpp*
-  ```
-  rosrun motores pingMotors
-  ```
 
-- En caso de utilizar el *motors.cpp*
-  ```
-  rosrun motores motors
-  ```
+  - En caso de utilizar el *pingMotors.cpp*
+    ```
+    rosrun motores pingMotors
+    ```
 
-- En caso de utilizar el *std_pose.cpp*
-  ```
-  rosrun motores std_pose
-  ```
+  - En caso de utilizar el *motors.cpp*
+    ```
+    rosrun motores motors
+    ```
+
+  - En caso de utilizar el *std_pose.cpp*
+    ```
+    rosrun motores std_pose
+    ```
 ## Autor
 
 **Juan Carlos Martínez Aguilar** *Estancia de Investigación en Robots Humanoides*
