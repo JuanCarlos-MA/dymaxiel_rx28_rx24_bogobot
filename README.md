@@ -46,4 +46,4 @@ roscore
     ```
 ## Autor
 
-**Juan Carlos Martínez Aguilar** *Estancia de Investigación en Robots Humanoides*
+**Juan Carlos Martínez Aguilar** *Investigación en Robots Humanoides*
